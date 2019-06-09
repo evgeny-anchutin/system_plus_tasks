@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Система+</string>
+    <string name="title_tasks">Задачи</string>
+    <string name="done_button">Готово</string>
+</resources>

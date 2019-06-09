@@ -1,0 +1,28 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_item_chapter_height">52dp</dimen>
+    <dimen name="horizontal_margin">16dp</dimen>
+    <dimen name="list_item_left_margin">8dp</dimen>
+
+    <!-- Настройки длинный заголовков списка студентов в фрагменте успеваемость студенты -->
+    <dimen name="average_student_scores_column_width_number">40dp</dimen>
+    <dimen name="average_student_scores_column_width_name">220dp</dimen>
+    <dimen name="average_student_scores_column_width_subject_name">200dp</dimen>
+
+    <!-- Длинна шкалы оценки-->
+    <dimen name="widthRangeOfScores">220dp</dimen>
+
+    <!-- Настройки progressBar оценки-->
+    <dimen name="height_horizontal_progress">12dp</dimen>
+    <item name="progress_circle_max" format="float" type="dimen">5.0</item>
+
+    <dimen name="book_menu_side_panel_width">480dp</dimen>
+    <dimen name="test_group_card_padding">18dp</dimen>
+    <dimen name="test_group_card_elevation">4dp</dimen>
+    <dimen name="test_group_card_width">230dp</dimen>
+    <dimen name="test_group_corner_radius">18dp</dimen>
+    <dimen name="height_rounded_button">36dp</dimen>
+    <dimen name="height_nav_button">34dp</dimen>
+    <dimen name="width_nav_button_container">78dp</dimen>
+    <dimen name="text_size_name">12sp</dimen>
+</resources>

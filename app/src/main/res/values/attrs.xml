@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RichTextView">
+        <attr name="font_type">
+            <enum value="1" name="regular"/>
+            <enum value="2" name="bold"/>
+        </attr>
+    </declare-styleable>
+</resources>
